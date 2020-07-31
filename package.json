@@ -1,0 +1,14 @@
+{
+  "name": "dedup",
+  "version": "0.0.1",
+  "description": "simple deduplication array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "flug",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.1.0"
+  }
+}
